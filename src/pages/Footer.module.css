@@ -1,0 +1,54 @@
+.footer {
+    padding: 50px 20px;
+    text-align: center;
+    background-color: #233140;
+    color: white;
+    display: flex;
+    gap: 250px;
+  }
+  
+  .footer h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .footer p {
+    font-size: 1rem;
+    margin: 0;
+  }
+  
+  .location,
+  .aroundTheWeb,
+  .aboutFreelancer {
+    margin-bottom: 30px;
+  }
+  
+  .socialIcons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  .icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    border: 2px solid white;
+    border-radius: 50%;
+    color: white;
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .icon:hover {
+    background-color: white;
+    color: #233140;
+  }
+  
+  .icon i {
+    font-size: 1.2rem;
+  }
+
+  

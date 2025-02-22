@@ -1,0 +1,14 @@
+
+img {
+    max-width: 800px;
+    padding: 20px;
+    padding-left: 250px;
+  }
+  
+h2{
+    width: 950px; /* Adjust the size as needed */
+    height: auto;
+    margin-bottom: 20px; /* Space between the logo and the h1 */
+  }
+  
+  
